@@ -1,4 +1,3 @@
-
 👋 Hi, I’m Yogendra rawat.
 👀 I’m interested in ML, AI, Development of web & aaps and Robotics.
 🌱 I’m currently learning Python,C,a bit of CSS and Html.
